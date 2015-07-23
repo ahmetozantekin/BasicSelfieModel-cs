@@ -4,5 +4,5 @@ BasicSelfieModel
 barzos for beginners.
 
 ___
-[@erayarslan](https://github.com/erayarslan)'s über javascript version, https://github.com/erayarslan/BasicSelfieModel
+[@erayarslan](https://github.com/erayarslan)'s über JavaScript thing, https://github.com/erayarslan/BasicSelfieModel
 ---
