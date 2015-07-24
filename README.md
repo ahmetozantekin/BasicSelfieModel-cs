@@ -10,5 +10,5 @@ ___
 
 [@frknbasaran](https://github.com/frknbasaran)'s über Java thing, https://github.com/frknbasaran/BasicSelfieModel-java
 
-
+[@onurtnrkl](https://github.com/onurtnrkl)'s über Swift thing, https://github.com/onurtnrkl/BasicSelfieModel-Swift
 
