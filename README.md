@@ -12,3 +12,4 @@ ___
 
 [@onurtnrkl](https://github.com/onurtnrkl)'s über Swift thing, https://github.com/onurtnrkl/BasicSelfieModel-Swift
 
+and Scala thing, https://github.com/ahmetozantekin/BasicSelfieModel-scala
