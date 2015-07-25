@@ -20,3 +20,5 @@ and Scala thing, https://github.com/ahmetozantekin/BasicSelfieModel-scala
 
 [@co3moz](https://github.com/co3moz)'s über  C++ thing, https://github.com/co3moz/BasicSelfieModel-cpp
 
+[@okanvurdu](https://github.com/okanvurdu)'s über  Ruby thing, https://github.com/okanvurdu/BasicSelfieModel-rb
+
