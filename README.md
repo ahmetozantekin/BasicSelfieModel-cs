@@ -13,3 +13,10 @@ ___
 [@onurtnrkl](https://github.com/onurtnrkl)'s über Swift thing, https://github.com/onurtnrkl/BasicSelfieModel-Swift
 
 and Scala thing, https://github.com/ahmetozantekin/BasicSelfieModel-scala
+
+[@erayarslan](https://github.com/erayarslan)'s über PHP thing, https://github.com/erayarslan/BasicSelfieModel-PHP
+
+[@erayarslan](https://github.com/erayarslan)'s über PHP thing, https://github.com/erayarslan/BasicSelfieModel-Python
+
+[@co3moz](https://github.com/co3moz)'s über PHP thing, https://github.com/co3moz/BasicSelfieModel-cpp
+
