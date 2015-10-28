@@ -1,6 +1,8 @@
 BasicSelfieModel
 ================
 
+[AWESOME](https://github.com/erayarslan/Awesome-BasicSelfieModel)
+
 ```
 Selfie.takePhoto()  // ağlama melis :)
 
