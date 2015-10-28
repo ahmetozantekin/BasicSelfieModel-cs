@@ -5,7 +5,6 @@ BasicSelfieModel
 
 ```
 Selfie.takePhoto()  // ağlama melis :)
-
 ```
 
 
