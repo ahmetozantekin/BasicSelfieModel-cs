@@ -1,31 +1,31 @@
 BasicSelfieModel
 ================
 
-barzos for beginners.
+```
+Selfie.takePhoto()  // ağlama melis :)
+
+```
+
 
 ___
-[@erayarslan](https://github.com/erayarslan)'s über JavaScript thing, https://github.com/erayarslan/BasicSelfieModel-JavaScript
+[JavaScript](https://github.com/erayarslan/BasicSelfieModel-JavaScript) -> [@erayarslan](https://github.com/erayarslan)
 
-[@erayarslan](https://github.com/erayarslan)'s über Ruby thing, https://github.com/erayarslan/BasicSelfieModel-Ruby
+[Ruby](https://github.com/erayarslan/BasicSelfieModel-Ruby) -> [@erayarslan](https://github.com/erayarslan)
 
-[@frknbasaran](https://github.com/frknbasaran)'s über Java thing, https://github.com/frknbasaran/BasicSelfieModel-java
+[Java](https://github.com/frknbasaran/BasicSelfieModel-java) -> [@frknbasaran](https://github.com/frknbasaran)
 
-[@onurtnrkl](https://github.com/onurtnrkl)'s über Swift thing, https://github.com/onurtnrkl/BasicSelfieModel-Swift
+[Ruby](https://github.com/okanvurdu/BasicSelfieModel-rb) -> [@okanvurdu](https://github.com/okanvurdu)
 
-and Scala thing, https://github.com/ahmetozantekin/BasicSelfieModel-scala
+[Swift](https://github.com/onurtnrkl/BasicSelfieModel-Swift) -> [@onurtnrkl](https://github.com/onurtnrkl)
 
-and CoffeeScript thing, https://github.com/ahmetozantekin/BasicSelfieModel-coffeescript
+[C++](https://github.com/co3moz/BasicSelfieModel-cpp) -> [@co3moz](https://github.com/co3moz)
 
-[@erayarslan](https://github.com/erayarslan)'s über PHP thing, https://github.com/erayarslan/BasicSelfieModel-PHP
+[Go](https://github.com/gokselpirnal/BasicSelfieModel-Go ) -> [@gokselpirnal](https://github.com/gokselpirnal)
 
-[@erayarslan](https://github.com/erayarslan)'s über Python thing, https://github.com/erayarslan/BasicSelfieModel-Python
+[PHP](https://github.com/erayarslan/BasicSelfieModel-PHP) -> [@erayarslan](https://github.com/erayarslan)
 
-[@co3moz](https://github.com/co3moz)'s über  C++ thing, https://github.com/co3moz/BasicSelfieModel-cpp
+[Python](https://github.com/erayarslan/BasicSelfieModel-Python) -> [@erayarslan](https://github.com/erayarslan) 
 
-[@okanvurdu](https://github.com/okanvurdu)'s über  Ruby thing, https://github.com/okanvurdu/BasicSelfieModel-rb
+[TypeScript](https://github.com/co3moz/BasicSelfieModel-Typescript) -> [@co3moz](https://github.com/co3moz)
 
-[@co3moz](https://github.com/co3moz)'s über TypeScript thing, https://github.com/co3moz/BasicSelfieModel-Typescript
-
-[@gokselpirnal](https://github.com/gokselpirnal)'s Go thing, https://github.com/gokselpirnal/BasicSelfieModel-Go 
-
-
+[CoffeeScript](https://github.com/ahmetozantekin/BasicSelfieModel-coffeescript) 
